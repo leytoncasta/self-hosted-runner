@@ -15,4 +15,3 @@ jobs:
             - name: validate functioning
               run: |
                 aws configure
-                ls
